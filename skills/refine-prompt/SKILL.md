@@ -1,6 +1,7 @@
 ---
 name: refine-prompt
 description: Transform a user's raw prompt into a clear, expert-level prompt for an AI coding or reasoning agent. Use when the user asks to refine, improve, rewrite, or engineer a prompt, especially when they want the output to leverage project context, agent memories, local instruction files, or available skills.
+license: MIT
 ---
 
 # Refine Prompt
